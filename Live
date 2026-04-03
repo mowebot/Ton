@@ -53,18 +53,18 @@ CANADA,#genre#
 11 ChCh,http://fortv.cc:8080/b6twFE/414151/57393
 11 ChCh,http://fortv.cc:8080/Alan/Alan1234/57393
 
-12 ici tele,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
-ICI TELE,http://fortv.cc:8080/b6twFE/414151/57484
-ICI TELE,http://fortv.cc:8080/b6twFE/414151/57485
-ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57484
-ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
+12 ICI TELE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
+12 ICI TELE,http://fortv.cc:8080/b6twFE/414151/57484
+12 ICI TELE,http://fortv.cc:8080/b6twFE/414151/57485
+12 ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57484
+12 ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
 
 13 TFO,http://fortv.cc:8080/b6twFE/414151/57495
 13 TFO,http://fortv.cc:8080/Alan/Alan1234/57495
 
 14 Omni 2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1450.m3u8
 14 Omni 2,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1450.m3u8
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
+14 Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
 15 FX,https://tvpass.org/live/FXEast/hd
 15 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
@@ -143,7 +143,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 33 CNN,https://tvpass.org/live/CNN/sd
 33 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-34 TLC,C,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
+34 TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
 34 TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
 
 35 HGTV,https://tvpass.org/live/HGTVEast/sd
