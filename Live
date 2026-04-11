@@ -2,31 +2,31 @@
 CANADA,#genre#
 01 CityNews,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
-02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
 02 TVO,http://fortv.cc:8080/b6twFE/414151/57369
+02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
 02 TVO,http://fortv.cc:8080/Alan/Alan/57369
 
 03 Global News Calgary, https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-03 Global Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.ts
-03 Global Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.ts
-03 Global Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
-03 Global Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
-03 Global Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1455.m3u8
-03 Global Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1455.m3u8
+03 Global News Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.ts
+03 Global News Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.ts
+03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
+03 Global News Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
+03 Global News Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1455.m3u8
+03 Global News Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1455.m3u8
 
-04 Omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
 04 Omni 1,http://fortv.cc:8080/b6twFE/414151/57365
 04 Omni 1,http://fortv.cc:8080/Alan/Alan1234/57365
 04 Omni 1,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1389.m3u8
 04 Omni 1,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1389.m3u8
+04 Omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
 
 05 blank TV Guide,
 
+06 CBC Toronto,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.ts
-06 CBC Toronto,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 
 07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
 07 CityTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
