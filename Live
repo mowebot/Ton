@@ -28,12 +28,13 @@ CANADA,#genre#
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.ts
 
-07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
-07 CityTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
-07 CityTV,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1438.m3u8
+07 CityTV Montreal,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
+07 CityTV Montreal,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1438.m3u8
+
 07 CityTV,http://iptvpro.pw:35451//live/swtv123/87654321/1438.m3u8
 07 CityTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3253.ts
 07 CityTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3255.ts
+07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
 
 08 CTV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1435.m3u8
 08 CTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
