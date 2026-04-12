@@ -86,6 +86,7 @@ CANADA,#genre#
 19 TSC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
 19 TSC,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
+20 CTV 2,http://fortv.cc:8080/b6twFE/414151/57316
 20 CTV 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93008.ts
 
 21 FOX, 
@@ -114,11 +115,23 @@ CANADA,#genre#
 25 YTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1390.m3u8
 25 YTV,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1390.m3u8
 
-26 TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
-26 TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
-26 TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
-26 TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
-26 TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
+26 TSN 1,http://fortv.cc:8080/b6twFE/414151/47440
+26 TSN 2,http://fortv.cc:8080/b6twFE/414151/47442
+26 TSN 3,http://fortv.cc:8080/b6twFE/414151/47444
+26 TSN 4,http://fortv.cc:8080/b6twFE/414151/47446
+26 TSN 5,http://fortv.cc:8080/b6twFE/414151/57295
+
+26 TSN,http://nocable.cc:8080/5AGbfz/324331/47440
+26 TSN,http://nocable.cc:8080/5AGbfz/324331/47442
+26 TSN,http://nocable.cc:8080/5AGbfz/324331/47444
+26 TSN,http://nocable.cc:8080/5AGbfz/324331/47446
+26 TSN,http://nocable.cc:8080/5AGbfz/324331/57295
+
+26 TSN 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
+26 TSN 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
+26 TSN 3,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
+26 TSN 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
+26 TSN 5,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
 
 27 W Network,https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
 27 W Network,http://fortv.cc:8080/b6twFE/414151/57284
@@ -228,10 +241,18 @@ NBA TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
 SKY F1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
 TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
 TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
+
+Crave 1,http://fortv.cc:8080/b6twFE/414151/57309
+Crave 2,http://fortv.cc:8080/b6twFE/414151/57310
+Crave 4,http://fortv.cc:8080/b6twFE/414151/57311
+
+Crave 3,http://fortv.cc:8080/b6twFE/414151/57322
+
 Crave 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3184.ts
 Crave 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3185.ts
 Crave 3,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3186.ts
 Crave 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3187.ts
+
 Discovery East (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21555.ts
 DISCOVERY FAMILY SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97454.ts
 DISCOVERY LIFE (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97455.ts
