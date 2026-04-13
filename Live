@@ -101,15 +101,6 @@ CANADA,#genre#
 
 16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 
-17 Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
-17 Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
-17 Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
-17 Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
-17 Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
-17 Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
-17 Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
-17 Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
-
 17 Sportsnet east,http://195.128.249.173/hls/sportsnet-east/index.m3u8
 17 Sportsnet 360,http://195.128.249.173/hls/sportsnet-360/index.m3u8
 17 Sportsnet one,http://195.128.249.173/hls/sportsnet-one/index.m3u8
@@ -125,6 +116,15 @@ CANADA,#genre#
 17 Sportsnet PAC,http://origin.thetvapp.to/hls/sportsnet-pacific/index.m3u8
 17 Sportsnet NY,http://origin.thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8
 17 Sportsnet west,http://origin.thetvapp.to/hls/sportsnet-west/index.m3u8
+
+17 Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
+17 Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
+17 Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
+17 Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
+17 Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
+17 Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
+17 Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
+17 Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
 
 18 ABC,http://41.205.93.154/ABC/index.m3u8
 18 ABC,https://tvpass.org/live/WABCDT1/hd
