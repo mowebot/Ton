@@ -75,9 +75,13 @@ CANADA,#genre#
 
 10 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 
-11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
 11 ChCh,http://fortv.cc:8080/b6twFE/414151/57393
+11 ChCh,http://nocable.cc:8080/b6twFE/414151/57393
 11 ChCh,http://fortv.cc:8080/Alan/Alan1234/57393
+11 ChCh,http://nocable.cc:8080/Alan/Alan1234/57393
+11 ChCh,http://fortv.cc:8080/5AGbfz/324331/57393
+11 ChCh,http://nocable.cc:8080/5AGbfz/324331/57393
+11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
 
 12 ICI TELE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
 12 ICI TELE,http://fortv.cc:8080/b6twFE/414151/57484
