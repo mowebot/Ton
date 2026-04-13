@@ -55,15 +55,14 @@ CANADA,#genre#
 08 CTV Toronto,http://stream.cammonitorplus.net/1712/index.m3u8
 08 CTV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1435.m3u8
 08 CTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
-08 CTV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
-08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
-08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.ts
-08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
 08 CTV Toronto,http://stream.cammonitorplus.net/1714/index.m3u8
 08 CTV Toronto,http://stream.cammonitorplus.net/1715/index.m3u8
 08 CTV Toronto,http://stream.cammonitorplus.net/1718/index.m3u8
 08 CTV Toronto,http://stream.cammonitorplus.net/1720/index.m3u8
-
+08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
+08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.ts
+08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
+08 CTV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
 
 09 YesTV,http://fortv.cc:8080/b6twFE/414151/57472
 09 YesTV,http://nocable.cc:8080/b6twFE/414151/57472
