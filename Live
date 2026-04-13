@@ -8,8 +8,10 @@ CANADA,#genre#
 02 TVO,http://nocable.cc:8080/Alan/Alan1234/57369
 02 TVO,http://nocable.cc:8080/5AGbfz/324331/57369
 02 TVO,http://fortv.cc:8080/5AGbfz/324331/57369
+02 TVO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1452.m3u8
 02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
 
+03 GlobalTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
 03 GlobalTV,http://fortv.cc:8080/b6twFE/414151/57302
 03 GlobalTV,http://nocable.cc:8080/b6twFE/414151/57302
 03 GlobalTV,http://fortv.cc:8080/5AGbfz/324331/57302
@@ -71,6 +73,7 @@ CANADA,#genre#
 09 YesTV,,http://fortv.cc:8080/5AGbfz/324331/57472
 09 YesTV,http://nocable.cc:8080/5AGbfz/324331/57472
 09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
+09 YesTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1453.m3u8
 
 10 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 
@@ -81,13 +84,18 @@ CANADA,#genre#
 11 ChCh,http://fortv.cc:8080/5AGbfz/324331/57393
 11 ChCh,http://nocable.cc:8080/5AGbfz/324331/57393
 11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
+11 ChCh,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1454.m3u8
 
-12 ICI TELE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
+12 ICI TELE,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1345.m3u8
+12 ICI TELE,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1383.m3u8
+12 ICI TELE,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1456.m3u8
 12 ICI TELE,http://fortv.cc:8080/b6twFE/414151/57484
 12 ICI TELE,http://fortv.cc:8080/b6twFE/414151/57485
 12 ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57484
 12 ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
+12 ICI TELE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
 
+13 TFO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1388.m3u8
 13 TFO,http://fortv.cc:8080/b6twFE/414151/57495
 13 TFO,http://fortv.cc:8080/Alan/Alan1234/57495
 
@@ -99,6 +107,13 @@ CANADA,#genre#
 15 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
 
 16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
+
+1443 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1443.m3u8
+1444 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1444.m3u8
+1445 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1445.m3u8
+1446 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1446.m3u8
+1447 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1447.m3u8
+1457 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1457.m3u8
 
 17 Sportsnet east,http://195.128.249.173/hls/sportsnet-east/index.m3u8
 17 Sportsnet 360,http://195.128.249.173/hls/sportsnet-360/index.m3u8
@@ -129,25 +144,26 @@ CANADA,#genre#
 18 ABC,https://tvpass.org/live/WABCDT1/hd
 18 ABC,https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 
-19 TSC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
 19 TSC,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+19 TSC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
 
 20 CTV 2,http://fortv.cc:8080/b6twFE/414151/57316
 20 CTV 2,http://nocable.cc:8080/5AGbfz/324331/57316
-20 CTV 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93008.ts
 20 CTV 2,http://stream.cammonitorplus.net/1731/index.m3u8
 20 CTV 2,http://stream.cammonitorplus.net/1736/index.m3u8
+20 CTV 2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1428.m3u8
+20 CTV 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93008.ts
 
 21 FOX, 
 
 22 Weather Network,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1372.m3u8
 22 Weather Network,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1372.m3u8
-22 Weather Network,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
 22 Weather Network,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
-22 Weather Network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
 22 Weather Network,http://fortv.cc:8080/b6twFE/414151/57470
 22 Weather Network,http://fortv.cc:8080/Alan/Alan1234/57470
 22 Weather Network,http://nocable.cc:8080/5AGbfz/324331/57470
+22 Weather Network,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
+22 Weather Network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
 
 23 CBC News Network
 
@@ -208,6 +224,12 @@ CANADA,#genre#
 26 TSN 3,http://195.128.249.173/hls/tsn3/index.m3u8
 26 TSN 4,http://195.128.249.173/hls/tsn4/index.m3u8
 26 TSN 5,http://195.128.249.173/hls/tsn5/index.m3u8
+
+26 TSN 1,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1395.m3u8
+26 TSN 2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1396.m3u8
+26 TSN 3,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1397.m3u8
+26 TSN 4,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1398.m3u8
+26 TSN 5,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1399.m3u8
 
 26 TSN 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
 26 TSN 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
