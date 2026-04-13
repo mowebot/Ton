@@ -22,7 +22,10 @@ CANADA,#genre#
 03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 
 04 Omni 1,http://fortv.cc:8080/b6twFE/414151/57365
+04 Omni 1,http://nocable.cc:8080/b6twFE/414151/57365
 04 Omni 1,http://fortv.cc:8080/Alan/Alan1234/57365
+04 Omni 1,http://nocable.cc:8080/Alan/Alan1234/57365
+04 Omni 1,http://fortv.cc:8080/5AGbfz/324331/57365
 04 Omni 1,http://nocable.cc:8080/5AGbfz/324331/57365
 04 Omni 1,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1389.m3u8
 04 Omni 1,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1389.m3u8
@@ -115,9 +118,11 @@ CANADA,#genre#
 22 Weather Network,http://fortv.cc:8080/Alan/Alan1234/57470
 22 Weather Network,http://nocable.cc:8080/5AGbfz/324331/57470
 
-23 CBC News Network,
+23 CBC News Network
 
 24 CP24,http://fortv.cc:8080/b6twFE/414151/47218
+24 CP24,http://nocable.cc:8080/b6twFE/414151/47218
+24 CP24,http://fortv.cc:8080//5AGbfz/324331/57257
 24 CP24,http://nocable.cc:8080/5AGbfz/324331/57257
 24 CP24,http://tvmate.icu:8080/99437538/28260477/57357
 24 CP24,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1350.m3u8
@@ -136,7 +141,17 @@ CANADA,#genre#
 26 TSN 3,http://fortv.cc:8080/b6twFE/414151/47444
 26 TSN 4,http://fortv.cc:8080/b6twFE/414151/47446
 26 TSN 5,http://fortv.cc:8080/b6twFE/414151/57295
+26 TSN 1,http://nocable.cc:8080/b6twFE/414151/47440
+26 TSN 2,http://nocable.cc:8080/b6twFE/414151/47442
+26 TSN 3,http://nocable.cc:8080/b6twFE/414151/47444
+26 TSN 4,http://nocable.cc:8080/b6twFE/414151/47446
+26 TSN 5,http://nocable.cc:8080/b6twFE/414151/57295
 
+26 TSN 1,http://fortv.cc:8080/5AGbfz/324331/47440
+26 TSN 2,http://fortv.cc:8080/5AGbfz/324331/47442
+26 TSN 3,http://fortv.cc:8080/5AGbfz/324331/47444
+26 TSN 4,http://fortv.cc:8080/5AGbfz/324331/47446
+26 TSN 5,http://fortv.cc:8080/5AGbfz/324331/57295
 26 TSN 1,http://nocable.cc:8080/5AGbfz/324331/47440
 26 TSN 2,http://nocable.cc:8080/5AGbfz/324331/47442
 26 TSN 3,http://nocable.cc:8080/5AGbfz/324331/47444
