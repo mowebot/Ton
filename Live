@@ -643,16 +643,16 @@ Cao Bằng TV (720p),https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3
 Hà Tĩnh TV (720p),https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
 HanoiTV1 (1080p),https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 HanoiTV1 (720p),https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
-HanoiTV2 (1080p) [Geo-blocked],https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+HanoiTV2 (1080p),https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 HanoiTV2 (720p),https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8
 HTV1 (720p),https://vc.101vn.com/htv/htvcmb.php?id=2631
 HTV3 (720p),https://vc.101vn.com/htv/htvcmb.php?id=2535
 HTV7 HD (1080p),https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8
 HTV7 HD (1080p),https://vc.101vn.com/htv/htvcmb.php?id=256
-HTV9 HD (1080p) [Geo-blocked],https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+HTV9 HD (1080p),https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 HTV Key (720p),https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
-HTV Thể thao (1080p) [Geo-blocked],https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-Huế TV (720p) [Geo-blocked],https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+HTV Thể thao (1080p),https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+Huế TV (720p),https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 Khánh Hòa TV (720p),https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8
 Khánh Hòa TV1 (720p),https://livektv2.baokhanhhoa.vn/hls/ktv1.m3u8
 Lâm Đồng TV (480p),http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
@@ -668,12 +668,12 @@ SCTV6 (1080p) [Geo-blocked],https://live.fptplay53.net/epzhd2/film360_vhls.smil/
 Tây Ninh TV (720p),https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 Thái Nguyên TV (720p),https://streaming.thainguyentv.vn/hls/livestream.m3u8
 Vietnam Today (1080p),https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-Vĩnh Long TV1 (1080p) [Geo-blocked],https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
-Vĩnh Long TV5 (1080p) [Geo-blocked],https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
-VTV2 HD (1080p) [Geo-blocked],https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-VTV3 HD (1080p) [Geo-blocked],https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+Vĩnh Long TV1 (1080p),https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+Vĩnh Long TV5 (1080p),https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+VTV2 HD (1080p),https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+VTV3 HD (1080p),https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 VTV5 Tây Nam Bộ HD (1080p),https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 VTV5 Tây Nguyên HD (1080p),https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
-VTV7 HD (1080p) [Geo-blocked],https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-VTV8 HD (1080p) [Geo-blocked],https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-VTV9 HD (1080p) [Geo-blocked],https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+VTV7 HD (1080p),https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+VTV8 HD (1080p),https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+VTV9 HD (1080p),https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
