@@ -107,9 +107,7 @@ CANADA,#genre#
 15 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
 
 16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
-
-1443 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1443.m3u8
-1444 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1444.m3u8
+ 
 1445 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1445.m3u8
 1446 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1446.m3u8
 1447 SN,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1447.m3u8
@@ -117,7 +115,9 @@ CANADA,#genre#
 
 17 Sportsnet east,http://195.128.249.173/hls/sportsnet-east/index.m3u8
 17 Sportsnet 360,http://195.128.249.173/hls/sportsnet-360/index.m3u8
+17 Sportsnet 360,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1444.m3u8
 17 Sportsnet one,http://195.128.249.173/hls/sportsnet-one/index.m3u8
+17 Sportsnet one,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1443.m3u8
 17 Sportsnet ONT,http://195.128.249.173/hls/sportsnet-ontario/index.m3u8
 17 Sportsnet PAC,http://195.128.249.173/hls/sportsnet-pacific/index.m3u8
 17 Sportsnet NY,http://195.128.249.173/hls/sportsnet-pittsburgh/index.m3u8
