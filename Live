@@ -110,6 +110,22 @@ CANADA,#genre#
 17 Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
 17 Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
 
+17 Sportsnet east,http://195.128.249.173/hls/sportsnet-east/index.m3u8
+17 Sportsnet 360,http://195.128.249.173/hls/sportsnet-360/index.m3u8
+17 Sportsnet one,http://195.128.249.173/hls/sportsnet-one/index.m3u8
+17 Sportsnet ONT,http://195.128.249.173/hls/sportsnet-ontario/index.m3u8
+17 Sportsnet PAC,http://195.128.249.173/hls/sportsnet-pacific/index.m3u8
+17 Sportsnet NY,http://195.128.249.173/hls/sportsnet-pittsburgh/index.m3u8
+17 Sportsnet west,http://195.128.249.173/hls/sportsnet-west/index.m3u8
+
+17 Sportsnet east,http://origin.thetvapp.to/hls/sportsnet-east/index.m3u8
+17 Sportsnet 360,http://origin.thetvapp.to/hls/sportsnet-360/index.m3u8
+17 Sportsnet one,http://origin.thetvapp.to/hls/sportsnet-one/index.m3u8
+17 Sportsnet ONT,http://origin.thetvapp.to/hls/sportsnet-ontario/index.m3u8
+17 Sportsnet PAC,http://origin.thetvapp.to/hls/sportsnet-pacific/index.m3u8
+17 Sportsnet NY,http://origin.thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8
+17 Sportsnet west,http://origin.thetvapp.to/hls/sportsnet-west/index.m3u8
+
 18 ABC,http://41.205.93.154/ABC/index.m3u8
 18 ABC,https://tvpass.org/live/WABCDT1/hd
 18 ABC,https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
@@ -181,6 +197,18 @@ CANADA,#genre#
 26 TSN 4,http://nocable.cc:8080/5AGbfz/324331/47446
 26 TSN 5,http://nocable.cc:8080/5AGbfz/324331/57295
 26 TSN 5,http://nocable.cc:8080/5AGbfz/324331/57467
+
+26 TSN 1,http://origin.thetvapp.to/hls/tsn1/index.m3u8
+26 TSN 2,http://origin.thetvapp.to/hls/tsn2/index.m3u8
+26 TSN 3,http://origin.thetvapp.to/hls/tsn3/index.m3u8
+26 TSN 4,http://origin.thetvapp.to/hls/tsn4/index.m3u8
+26 TSN 5,http://origin.thetvapp.to/hls/tsn5/index.m3u8
+
+26 TSN 1,http://195.128.249.173/hls/tsn1/index.m3u8
+26 TSN 2,http://195.128.249.173/hls/tsn2/index.m3u8
+26 TSN 3,http://195.128.249.173/hls/tsn3/index.m3u8
+26 TSN 4,http://195.128.249.173/hls/tsn4/index.m3u8
+26 TSN 5,http://195.128.249.173/hls/tsn5/index.m3u8
 
 26 TSN 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
 26 TSN 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
