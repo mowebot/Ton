@@ -64,9 +64,14 @@ CANADA,#genre#
 08 CTV Toronto,http://stream.cammonitorplus.net/1718/index.m3u8
 08 CTV Toronto,http://stream.cammonitorplus.net/1720/index.m3u8
 
-09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
+
 09 YesTV,http://fortv.cc:8080/b6twFE/414151/57472
+09 YesTV,http://nocable.cc:8080/b6twFE/414151/57472
+09 YesTV,http://nocable.cc:8080/Alan/Alan1234/57472
 09 YesTV,http://fortv.cc:8080/Alan/Alan1234/57472
+09 YesTV,,http://fortv.cc:8080/5AGbfz/324331/57472
+09 YesTV,http://nocable.cc:8080/5AGbfz/324331/57472
+09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
 
 10 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 
