@@ -1,6 +1,6 @@
 
 CANADA,#genre#
-01 eerCityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+01 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
 02 TVO,http://fortv.cc:8080/b6twFE/414151/57369
 02 TVO,http://nocable.cc:8080/b6twFE/414151/57369
@@ -108,14 +108,14 @@ CANADA,#genre#
 
 16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 
-360,http://fortv.cc:8080/b6twFE/414151/57299
-east,http://fortv.cc:8080/b6twFE/414151/57298
-one,http://fortv.cc:8080/b6twFE/414151/57297
-one,http://fortv.cc:8080/b6twFE/414151/47379
-ont,http://fortv.cc:8080/b6twFE/414151/57463
-ont,http://fortv.cc:8080/b6twFE/414151/57296
-pacific,http://fortv.cc:8080/b6twFE/414151/47387
-west,http://fortv.cc:8080/b6twFE/414151/57300
+17 Sportsnet east,http://fortv.cc:8080/b6twFE/414151/57298
+17 Sportsnet 360,http://fortv.cc:8080/b6twFE/414151/57299
+17 Sportsnet one,http://fortv.cc:8080/b6twFE/414151/57297
+17 Sportsnet one,http://fortv.cc:8080/b6twFE/414151/47379
+17 Sportsnet ONT,http://fortv.cc:8080/b6twFE/414151/57463
+17 Sportsnet ONT,http://fortv.cc:8080/b6twFE/414151/57296
+17 Sportsnet PAC,http://fortv.cc:8080/b6twFE/414151/47387
+17 Sportsnet west,http://fortv.cc:8080/b6twFE/414151/57300
 
 http://nocable.cc:8080/b6twFE/414151/
 
