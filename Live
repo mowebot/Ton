@@ -21,7 +21,8 @@ CANADA,#genre#
 02 TVO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1452.m3u8
 02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
 
-
+57435
+57302
 03 GlobalTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
 03 GlobalTV,http://fortv.cc:8080/b6twFE/414151/57302
 03 GlobalTV,http://nocable.cc:8080/b6twFE/414151/57302
@@ -41,6 +42,7 @@ CANADA,#genre#
 03 Global News Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1455.m3u8
 03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 
+57356
 04 Omni 1,http://hestiahestia.quicksytes.com:2096/os9801/2587639104/761476
 04 Omni 1,http://fortv.cc:8080/b6twFE/414151/57365
 04 Omni 1,http://nocable.cc:8080/b6twFE/414151/57365
@@ -54,18 +56,21 @@ CANADA,#genre#
 
 05 blank TV Guide,
 
+57306
 06 CBC Toronto,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.ts
 06 CBC Toronto,http://stream.cammonitorplus.net/1704/index.m3u8
 
+57394
 07 CityTV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
 07 CityTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1438.m3u8
 07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3253.ts
 07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3255.ts
 07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
 
+47296
 08 CTV Toronto,http://stream.cammonitorplus.net/1712/index.m3u8
 08 CTV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1435.m3u8
 08 CTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
@@ -78,6 +83,7 @@ CANADA,#genre#
 08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
 08 CTV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
 
+57472
 09 YesTV,http://fortv.cc:8080/b6twFE/414151/57472
 09 YesTV,http://nocable.cc:8080/b6twFE/414151/57472
 09 YesTV,http://nocable.cc:8080/Alan/Alan1234/57472
@@ -87,8 +93,10 @@ CANADA,#genre#
 09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
 09 YesTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1453.m3u8
 
+47332
 10 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 
+57393
 11 ChCh,http://fortv.cc:8080/b6twFE/414151/57393
 11 ChCh,http://nocable.cc:8080/b6twFE/414151/57393
 11 ChCh,http://fortv.cc:8080/Alan/Alan1234/57393
@@ -97,6 +105,7 @@ CANADA,#genre#
 11 ChCh,http://nocable.cc:8080/5AGbfz/324331/57393
 11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
 11 ChCh,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1454.m3u8
+
 
 12 ICI TELE,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1345.m3u8
 12 ICI TELE,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1383.m3u8
@@ -107,17 +116,21 @@ CANADA,#genre#
 12 ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
 12 ICI TELE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
 
+
 13 TFO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1388.m3u8
 13 TFO,http://fortv.cc:8080/b6twFE/414151/57495
 13 TFO,http://fortv.cc:8080/Alan/Alan1234/57495
+
 
 14 Omni 2,http://hestiahestia.quicksytes.com:2096/os9801/2587639104/761477
 14 Omni 2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1450.m3u8
 14 Omni 2,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1450.m3u8
 14 Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
+57268
 15 FX,https://tvpass.org/live/FXEast/hd
 15 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
+
 
 16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 
@@ -170,12 +183,15 @@ http://fortv.cc:8080/Alan/Alan1234/
 17 Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
 17 Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
 
+57375
 18 ABC,http://41.205.93.154/ABC/index.m3u8
 18 ABC,https://tvpass.org/live/WABCDT1/hd
 18 ABC,https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 
+57370
 19 TSC,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 19 TSC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
+
 
 20 CTV 2,http://fortv.cc:8080/b6twFE/414151/57316
 20 CTV 2,http://nocable.cc:8080/5AGbfz/324331/57316
@@ -212,8 +228,10 @@ http://fortv.cc:8080/Alan/Alan1234/
 24 CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3091.ts
 24 CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3261.ts
 
+
 25 YTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1390.m3u8
 25 YTV,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1390.m3u8
+
 
 26 TSN 1,http://fortv.cc:8080/b6twFE/414151/47440
 26 TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
@@ -269,29 +287,39 @@ http://fortv.cc:8080/Alan/Alan1234/
 26 TSN 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
 26 TSN 5,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
 
+
 27 W Network,https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
 27 W Network,http://fortv.cc:8080/b6twFE/414151/57284
 27 W Network,http://fortv.cc:8080/Alan/Alan1234/57284
 
+
 28 TLN,network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647752.ts
 
+47366
 29 Showcase,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3066.ts
 29 Showcase,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3966.ts
 
-30 MUCH,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3149.ts
-30 MUCH,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3094.ts
+215268
+30 MUCH MUSIC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3149.ts
+30 MUCH MUSIC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3094.ts
 
+57476
+58264
 31 A&E,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3141.ts
 31 A&E,https://tvpass.org/live/AEEast/sd
 
 32 Sportsnet Ontario,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
 
+57398
+47213
 33 CNN,https://tvpass.org/live/CNN/sd
 33 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+57290
 34 TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
 34 TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
 
+57273
 35 HGTV,https://tvpass.org/live/HGTVEast/sd
 35 HGTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3836.ts
 35 HGTV,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6456/index.m3u8
@@ -307,33 +335,41 @@ http://fortv.cc:8080/Alan/Alan1234/
 36 Fairchild TV 2,http://2atv.xyz:83/live/Preach1love/3128579064/761433.m3u8
 36 Fairchild TV 2,http://2atv.xyz:83/live/keligr/6108753492/761433.m3u8
 
-37 Slice,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3078.ts
-37 Slice,http://fortv.cc:8080/b6twFE/414151/57274
-37 Slice,http://fortv.cc:8080/Alan/Alan1234/57274
+57274
+37 Slice TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3078.ts
+37 Slice TV,http://fortv.cc:8080/b6twFE/414151/57274
+37 Slice TV,http://fortv.cc:8080/Alan/Alan1234/57274
 
+57258
 38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3122.ts
 38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3623.ts
 38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97451.ts
 38 CMT,http://nor1live.win/livehttpplay?channel_id=23077
 
+57376
 39 AMC,http://148.113.160.49:14209
 39 AMC,http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 39 AMC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3132.m3u8
 
-40 CTV Drama,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
-40 CTV Drama,http://fortv.cc:8080/b6twFE/414151/57254
-40 CTV Drama,http://fortv.cc:8080/Alan/Alan1234/57254
+57254
+40 CTV Drama Channel,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
+40 CTV Drama Channel,http://fortv.cc:8080/b6twFE/414151/57254
+40 CTV Drama Channel,http://fortv.cc:8080/Alan/Alan1234/57254
 
+57441
 41 HLN,http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
+
 
 42 USA HD,http://nor1live.win/livehttpplay?channel_id=23112
 42 USA HD,http://nor1live.win/livehttpplay?channel_id=23069
 
 44 Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
 
+57379
 45 BRAVO,http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
 45 BRAVO,https://tvpass.org/live/BravoEast/sd
 45 BRAVO,http://41.205.93.154/BRAVO/index.m3u8
+
 
 46 TCM,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2165.ts
 46 TCM,http://143.244.60.30/TCM/index.m3u8
@@ -341,11 +377,14 @@ http://fortv.cc:8080/Alan/Alan1234/
 46 TCM,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2402.ts
 46 TCM,http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
+
 47 CARTOON NETWORK HD,http://nor1live.win/livehttpplay?channel_id=23045
 47 CARTOON NETWORK,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3248.ts
 
-50 CTV Comedy,http://fortv.cc:8080/b6twFE/414151/57408
-50 CTV Comedy,http://fortv.cc:8080/Alan/Alan1234/57408
+57408
+50 CTV Comedy Channel,http://fortv.cc:8080/b6twFE/414151/57408
+50 CTV Comedy Channel,http://fortv.cc:8080/Alan/Alan1234/57408
+
 
 51 FX
 52 Flavour
