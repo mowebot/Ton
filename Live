@@ -8,8 +8,10 @@
 36 Fairchild TV 2,http://2atv.xyz:83/live/keligr/6108753492/761433.m3u8
 
 CANADA,#genre#
+21610
 01 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
+57369
 02 TVO,http://fortv.cc:8080/b6twFE/414151/57369
 02 TVO,http://nocable.cc:8080/b6twFE/414151/57369
 02 TVO,http://fortv.cc:8080/Alan/Alan1234/57369
@@ -18,6 +20,7 @@ CANADA,#genre#
 02 TVO,http://fortv.cc:8080/5AGbfz/324331/57369
 02 TVO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1452.m3u8
 02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
+
 
 03 GlobalTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
 03 GlobalTV,http://fortv.cc:8080/b6twFE/414151/57302
