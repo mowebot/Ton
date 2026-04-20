@@ -9,28 +9,28 @@
 
 CANADA,#genre#
 21610
-01 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+01 City News Toronto ON,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
 57369
-02 TVO,http://fortv.cc:8080/b6twFE/414151/57369
-02 TVO,http://nocable.cc:8080/b6twFE/414151/57369
-02 TVO,http://fortv.cc:8080/Alan/Alan1234/57369
-02 TVO,http://nocable.cc:8080/Alan/Alan1234/57369
-02 TVO,http://nocable.cc:8080/5AGbfz/324331/57369
-02 TVO,http://fortv.cc:8080/5AGbfz/324331/57369
-02 TVO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1452.m3u8
-02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
+02 TV ONTARIO HD,http://fortv.cc:8080/b6twFE/414151/57369
+02 TV ONTARIO HD,http://nocable.cc:8080/b6twFE/414151/57369
+02 TV ONTARIO HD,http://fortv.cc:8080/Alan/Alan1234/57369
+02 TV ONTARIO HD,http://nocable.cc:8080/Alan/Alan1234/57369
+02 TV ONTARIO HD,http://nocable.cc:8080/5AGbfz/324331/57369
+02 TV ONTARIO HD,http://fortv.cc:8080/5AGbfz/324331/57369
+02 TV ONTARIO HD,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1452.m3u8
+02 TV ONTARIO HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
 
 57435
 57302
-03 GlobalTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
-03 GlobalTV,http://fortv.cc:8080/b6twFE/414151/57302
-03 GlobalTV,http://nocable.cc:8080/b6twFE/414151/57302
-03 GlobalTV,http://fortv.cc:8080/5AGbfz/324331/57302
-03 GlobalTV,http://nocable.cc:8080/5AGbfz/324331/57302
-03 GlobalTV,http://nocable.cc:8080/Alan/Alan1234/57302
-03 GlobalTV,http://fortv.cc:8080/Alan/Alan1234/57302
-03 GlobalTV,http://stream.cammonitorplus.net/1730/index.m3u8
+03 GLOBAL TORONTO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
+03 GLOBAL TORONTO,http://fortv.cc:8080/b6twFE/414151/57302
+03 GLOBAL TORONTO,http://nocable.cc:8080/b6twFE/414151/57302
+03 GLOBAL TORONTO,http://fortv.cc:8080/5AGbfz/324331/57302
+03 GLOBAL TORONTO,http://nocable.cc:8080/5AGbfz/324331/57302
+03 GLOBAL TORONTO,http://nocable.cc:8080/Alan/Alan1234/57302
+03 GLOBAL TORONTO,http://fortv.cc:8080/Alan/Alan1234/57302
+03 GLOBAL TORONTO,http://stream.cammonitorplus.net/1730/index.m3u8
 
 03 Global News Calgary, https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
@@ -43,68 +43,68 @@ CANADA,#genre#
 03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 
 57356
-04 Omni 1,http://hestiahestia.quicksytes.com:2096/os9801/2587639104/761476
-04 Omni 1,http://fortv.cc:8080/b6twFE/414151/57365
-04 Omni 1,http://nocable.cc:8080/b6twFE/414151/57365
-04 Omni 1,http://fortv.cc:8080/Alan/Alan1234/57365
-04 Omni 1,http://nocable.cc:8080/Alan/Alan1234/57365
-04 Omni 1,http://fortv.cc:8080/5AGbfz/324331/57365
-04 Omni 1,http://nocable.cc:8080/5AGbfz/324331/57365
-04 Omni 1,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1389.m3u8
-04 Omni 1,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1389.m3u8
-04 Omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
+04 Omni1 HD,http://hestiahestia.quicksytes.com:2096/os9801/2587639104/761476
+04 Omni1 HD,http://fortv.cc:8080/b6twFE/414151/57365
+04 Omni1 HD,http://nocable.cc:8080/b6twFE/414151/57365
+04 Omni1 HD,http://fortv.cc:8080/Alan/Alan1234/57365
+04 Omni1 HD,http://nocable.cc:8080/Alan/Alan1234/57365
+04 Omni1 HD,http://fortv.cc:8080/5AGbfz/324331/57365
+04 Omni1 HD,http://nocable.cc:8080/5AGbfz/324331/57365
+04 Omni1 HD,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1389.m3u8
+04 Omni1 HD,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1389.m3u8
+04 Omni1 HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
 
 05 blank TV Guide,
 
 57306
-06 CBC Toronto,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
-06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
-06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.ts
-06 CBC Toronto,http://stream.cammonitorplus.net/1704/index.m3u8
+06 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+06 CBC TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
+06 CBC TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
+06 CBC TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.ts
+06 CBC TORONTO,http://stream.cammonitorplus.net/1704/index.m3u8
 
 57394
-07 CityTV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
-07 CityTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1438.m3u8
-07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3253.ts
-07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3255.ts
-07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
+07 CITY TV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
+07 CITY TV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1438.m3u8
+07 CITY TV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3253.ts
+07 CITY TV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3255.ts
+07 CITY TV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
 
 47296
-08 CTV Toronto,http://stream.cammonitorplus.net/1712/index.m3u8
-08 CTV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1435.m3u8
-08 CTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
-08 CTV Toronto,http://stream.cammonitorplus.net/1714/index.m3u8
-08 CTV Toronto,http://stream.cammonitorplus.net/1715/index.m3u8
-08 CTV Toronto,http://stream.cammonitorplus.net/1718/index.m3u8
-08 CTV Toronto,http://stream.cammonitorplus.net/1720/index.m3u8
-08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
-08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.ts
-08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
-08 CTV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
+08 CTV Toronto HD,http://stream.cammonitorplus.net/1712/index.m3u8
+08 CTV Toronto HD,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1435.m3u8
+08 CTV Toronto HD,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
+08 CTV Toronto HD,http://stream.cammonitorplus.net/1714/index.m3u8
+08 CTV Toronto HD,http://stream.cammonitorplus.net/1715/index.m3u8
+08 CTV Toronto HD,http://stream.cammonitorplus.net/1718/index.m3u8
+08 CTV Toronto HD,http://stream.cammonitorplus.net/1720/index.m3u8
+08 CTV Toronto HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
+08 CTV Toronto HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.ts
+08 CTV Toronto HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
+08 CTV Toronto HD,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
 
 57472
-09 YesTV,http://fortv.cc:8080/b6twFE/414151/57472
-09 YesTV,http://nocable.cc:8080/b6twFE/414151/57472
-09 YesTV,http://nocable.cc:8080/Alan/Alan1234/57472
-09 YesTV,http://fortv.cc:8080/Alan/Alan1234/57472
-09 YesTV,,http://fortv.cc:8080/5AGbfz/324331/57472
-09 YesTV,http://nocable.cc:8080/5AGbfz/324331/57472
-09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
-09 YesTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1453.m3u8
+09 YES TV,http://fortv.cc:8080/b6twFE/414151/57472
+09 YES TV,http://nocable.cc:8080/b6twFE/414151/57472
+09 YES TV,http://nocable.cc:8080/Alan/Alan1234/57472
+09 YES TV,http://fortv.cc:8080/Alan/Alan1234/57472
+09 YES TV,,http://fortv.cc:8080/5AGbfz/324331/57472
+09 YES TV,http://nocable.cc:8080/5AGbfz/324331/57472
+09 YES TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
+09 YES TV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1453.m3u8
 
 47332
-10 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
+10 MSNBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 
 57393
-11 ChCh,http://fortv.cc:8080/b6twFE/414151/57393
-11 ChCh,http://nocable.cc:8080/b6twFE/414151/57393
-11 ChCh,http://fortv.cc:8080/Alan/Alan1234/57393
-11 ChCh,http://nocable.cc:8080/Alan/Alan1234/57393
-11 ChCh,http://fortv.cc:8080/5AGbfz/324331/57393
-11 ChCh,http://nocable.cc:8080/5AGbfz/324331/57393
-11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
-11 ChCh,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1454.m3u8
+11 CHCH,http://fortv.cc:8080/b6twFE/414151/57393
+11 CHCH,http://nocable.cc:8080/b6twFE/414151/57393
+11 CHCH,http://fortv.cc:8080/Alan/Alan1234/57393
+11 CHCH,http://nocable.cc:8080/Alan/Alan1234/57393
+11 CHCH,http://fortv.cc:8080/5AGbfz/324331/57393
+11 CHCH,http://nocable.cc:8080/5AGbfz/324331/57393
+11 CHCH,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
+11 CHCH,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1454.m3u8
 
 
 12 ICI TELE,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1345.m3u8
@@ -122,10 +122,10 @@ CANADA,#genre#
 13 TFO,http://fortv.cc:8080/Alan/Alan1234/57495
 
 
-14 Omni 2,http://hestiahestia.quicksytes.com:2096/os9801/2587639104/761477
-14 Omni 2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1450.m3u8
-14 Omni 2,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1450.m3u8
-14 Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
+14 Omni2,http://hestiahestia.quicksytes.com:2096/os9801/2587639104/761477
+14 Omni2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1450.m3u8
+14 Omni2,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1450.m3u8
+14 Omni2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
 57268
 15 FX,https://tvpass.org/live/FXEast/hd
@@ -189,8 +189,8 @@ http://fortv.cc:8080/Alan/Alan1234/
 18 ABC,https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 
 57370
-19 TSC,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-19 TSC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
+19 The Shopping Channel,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+19 The Shopping Channel,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
 
 
 20 CTV 2,http://fortv.cc:8080/b6twFE/414151/57316
@@ -202,16 +202,16 @@ http://fortv.cc:8080/Alan/Alan1234/
 
 21 FOX, 
 
-22 Weather Network,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1372.m3u8
-22 Weather Network,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1372.m3u8
-22 Weather Network,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
-22 Weather Network,http://fortv.cc:8080/b6twFE/414151/57470
-22 Weather Network,http://fortv.cc:8080/Alan/Alan1234/57470
-22 Weather Network,http://nocable.cc:8080/5AGbfz/324331/57470
-22 Weather Network,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
-22 Weather Network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
+22 Weather Network Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1372.m3u8
+22 Weather Network Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1372.m3u8
+22 Weather Network Toronto,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
+22 Weather Network Toronto,http://fortv.cc:8080/b6twFE/414151/57470
+22 Weather Network Toronto,http://fortv.cc:8080/Alan/Alan1234/57470
+22 Weather Network Toronto,http://nocable.cc:8080/5AGbfz/324331/57470
+22 Weather Network Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
+22 Weather Network Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
 
-23 CBC News Network
+23 CBC NEWS NETWORK 57304
 
 24 CP24,http://xxip9.top:8080/live/b.ivey@bellaliant.net/EBKLbjN4wN/47218.m3u8
 24 CP24,http://xxip25.top:8080/live/1yNyea/123956/57345.m3u8
@@ -386,26 +386,34 @@ http://fortv.cc:8080/Alan/Alan1234/
 50 CTV Comedy Channel,http://fortv.cc:8080/Alan/Alan1234/57408
 
 
-51 FX
-52 Flavour
+51 FXX 57429
+52 COOKING CHANNEL 107960
 
+57273
+47302
 54 HISTORY,http://nor1live.win/livehttpplay?channel_id=23105
 54 HISTORY,http://nor1live.win/livehttpplay?channel_id=23105
 
-55 CTV Sci-Fi,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
-55 CTV Sci-Fi,http://fortv.cc:8080/b6twFE/414151/57464
-55 CTV Sci-Fi,http://fortv.cc:8080/Alan/Alan1234/57464
+57253
+55 CTV Sci-Fi Channel,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
+55 CTV Sci-Fi Channel,http://fortv.cc:8080/b6twFE/414151/57464
+55 CTV Sci-Fi Channel,http://fortv.cc:8080/Alan/Alan1234/57464
 
-58 Dtour,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3110.ts
+57250
+58 DTOUR HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3110.ts
 
-61 PBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3085.ts
+57276
+61 PBS HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3085.ts
 
-63 CTV News Channel (R),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
+57350
+63 CTV NEWS CHANNEL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
 
+116506
 64 CTV Life,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3280.ts
 
-
+47362
 65 Treehouse,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3057.ts
+
 
 66 BNN,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 66 BNN,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
