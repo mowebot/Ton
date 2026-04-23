@@ -579,7 +579,8 @@ MUCH MUSIC,http://nocable.cc:8080/live/28148830/68208395/215268.m3u8
 City News Toronto,http://nocable.cc:8080/live/28148830/68208395/216100.m3u8
 CBC TORONTO,http://nocable.cc:8080/live/28148830/68208395/57306.m3u8 
 
-CANADA CITY,#genre#
+
+CANADA CITIES,#genre#
 CBC Calgary HD,http://nocable.cc:8080/live/28148830/68208395/57381.m3u8
 CBC Charlottetown HD,http://nocable.cc:8080/live/28148830/68208395/57382.m3u8
 CBC Edmonton,http://nocable.cc:8080/live/28148830/68208395/57384.m3u8
