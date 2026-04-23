@@ -461,24 +461,17 @@ Animal Planet,http://nocable.cc:8080/live/28148830/68208395/57377.m3u8
 BNN Bloomberg HD,http://nocable.cc:8080/live/28148830/68208395/57358.m3u8
 Bravo,http://nocable.cc:8080/live/28148830/68208395/57379.m3u8
 CBC NEWS NETWORK,http://nocable.cc:8080/live/28148830/68208395/57304.m3u8
-CBC Calgary HD,http://nocable.cc:8080/live/28148830/68208395/57381.m3u8
-CBC Charlottetown HD,http://nocable.cc:8080/live/28148830/68208395/57382.m3u8
-CBC Edmonton,http://nocable.cc:8080/live/28148830/68208395/57384.m3u8
-CBC Halifax HD,http://nocable.cc:8080/live/28148830/68208395/57385.m3u8
-CBC Montreal HD,http://nocable.cc:8080/live/28148830/68208395/57387.m3u8
-CBC OTTAWA,http://nocable.cc:8080/live/28148830/68208395/57305.m3u8
-CBC TORONTO,http://nocable.cc:8080/live/28148830/68208395/57306.m3u8 
-CBC Vancouver,http://nocable.cc:8080/live/28148830/68208395/57391.m3u8
+
 CHCH,http://nocable.cc:8080/live/28148830/68208395/57393.m3u8 
 CHRGD,http://nocable.cc:8080/live/28148830/68208395/75653.m3u8
-CITY TV CALGARY,http://nocable.cc:8080/live/28148830/68208395/75652.m3u8
-CITY TV TORONTO,http://nocable.cc:8080/live/28148830/68208395/57394.m3u8
-CITY TV VANCOUVER,http://nocable.cc:8080/live/28148830/68208395/57395.m3u8 
+
+CITY TV Toronto,http://nocable.cc:8080/live/28148830/68208395/57394.m3u8
+ 
 CMT,http://nocable.cc:8080/live/28148830/68208395/57258.m3u8
 CNN,http://nocable.cc:8080/live/28148830/68208395/57398.m3u8
 CNN,http://nocable.cc:8080/live/28148830/68208395/47213.m3u8
 Cottage Life HD,http://nocable.cc:8080/live/28148830/68208395/47217.m3u8
-CP24 News HD,http://nocable.cc:8080/live/28148830/68208395/57357.m3u8
+CP24,http://nocable.cc:8080/live/28148830/68208395/57357.m3u8
 CP24,http://nocable.cc:8080/live/28148830/68208395/57401.m3u8
 CP24,http://nocable.cc:8080/live/28148830/68208395/57345.m3u8
 CP24,http://nocable.cc:8080/live/28148830/68208395/47218.m3u8
@@ -491,24 +484,10 @@ CRAVE 2,http://nocable.cc:8080/live/28148830/68208395/57310.m3u8
 CRAVE 3,http://nocable.cc:8080/live/28148830/68208395/57322.m3u8
 CRAVE 4,http://nocable.cc:8080/live/28148830/68208395/57311.m3u8
 CRIME & INVESTIGATION,http://nocable.cc:8080/live/28148830/68208395/57256.m3u8
-CTV Two Atlantic,http://nocable.cc:8080/live/28148830/68208395/79547.m3u8
-CTV CALGARY,http://nocable.cc:8080/live/28148830/68208395/57964.m3u8
-CTV Comedy Channel,http://nocable.cc:8080/live/28148830/68208395/57408.m3u8
-CTV Drama Channel,http://nocable.cc:8080/live/28148830/68208395/57254.m3u8
-CTV Edmonton Alberta,http://nocable.cc:8080/live/28148830/68208395/58725.m3u8 
-CTV Halifax Nova Scotia,http://nocable.cc:8080/live/28148830/68208395/57410.m3u8
-CTV Kitchener,http://nocable.cc:8080/live/28148830/68208395/58557.m3u8
-CTV 2 London,http://nocable.cc:8080/live/28148830/68208395/58546.m3u8
-CTV Montreal,http://nocable.cc:8080/live/28148830/68208395/47234.m3u8
-CTV NEWS CHANNEL,http://nocable.cc:8080/live/28148830/68208395/57350.m3u8
-CTV OTTAWA,http://nocable.cc:8080/live/28148830/68208395/47237.m3u8
-CTV Regina Saskatchewan,http://nocable.cc:8080/live/28148830/68208395/66381.m3u8
-CTV Saskatoon Saskatchewan,http://nocable.cc:8080/live/28148830/68208395/66382.m3u8
+
 CTV Sci-Fi Channel,http://nocable.cc:8080/live/28148830/68208395/57253.m3u8
 CTV Toronto,http://nocable.cc:8080/live/28148830/68208395/47296.m3u8
-CTV2 Vancouver,http://nocable.cc:8080/live/28148830/68208395/57316.m3u8
-CTV2 Windsor,http://nocable.cc:8080/live/28148830/68208395/77165.m3u8
-CTV Barrie Ontario,http://nocable.cc:8080/live/28148830/68208395/57373.m3u8
+
 Discovery Channel,http://nocable.cc:8080/live/28148830/68208395/57252.m3u8
 Discovery Science,http://nocable.cc:8080/live/28148830/68208395/57418.m3u8
 DIY NETWORK,http://nocable.cc:8080/live/28148830/68208395/47258.m3u8
@@ -521,14 +500,10 @@ FX,http://nocable.cc:8080/live/28148830/68208395/57268.m3u8
 FXX,http://nocable.cc:8080/live/28148830/68208395/57429.m3u8
 Game Show Network,http://nocable.cc:8080/live/28148830/68208395/57430.m3u8
 Ginx esports TV,http://nocable.cc:8080/live/28148830/68208395/57431.m3u8
-Global News Kingston,http://nocable.cc:8080/live/28148830/68208395/57432.m3u8
-Global Edmonton News,http://nocable.cc:8080/live/28148830/68208395/58724.m3u8 
-Global Halifax News,http://nocable.cc:8080/live/28148830/68208395/57434.m3u8
-Global News Regina,http://nocable.cc:8080/live/28148830/68208395/66384.m3u8
-Global Saskatoon,http://nocable.cc:8080/live/28148830/68208395/66383.m3u8
+
 GLOBAL TORONTO,http://nocable.cc:8080/live/28148830/68208395/57435.m3u8
 GLOBAL TORONTO,http://nocable.cc:8080/live/28148830/68208395/57302.m3u8
-Global Vancouver,http://nocable.cc:8080/live/28148830/68208395/57436.m3u8 
+
 Golf Channel,http://nocable.cc:8080/live/28148830/68208395/57362.m3u8
 HBO 1,http://nocable.cc:8080/live/28148830/68208395/57437.m3u8
 HBO 2,http://nocable.cc:8080/live/28148830/68208395/57438.m3u8
@@ -581,39 +556,91 @@ W Network East,http://nocable.cc:8080/live/28148830/68208395/57284.m3u8
 Weather Network Toronto,http://nocable.cc:8080/live/28148830/68208395/57470.m3u8
 World Fishing Network,http://nocable.cc:8080/live/28148830/68208395/57471.m3u8
 YES TV,http://nocable.cc:8080/live/28148830/68208395/57472.m3u8
-Global Peterborough News,http://nocable.cc:8080/live/28148830/68208395/85269.m3u8
-CBC Windsor,http://nocable.cc:8080/live/28148830/68208395/86749.m3u8
+
 BBC EARTH,http://nocable.cc:8080/live/28148830/68208395/99621.m3u8
-Global Durham,http://nocable.cc:8080/live/28148830/68208395/100453.m3u8
-CTV Sudbury Ontario,http://nocable.cc:8080/live/28148830/68208395/100454.m3u8
-CTV Timmins Ontario,http://nocable.cc:8080/live/28148830/68208395/100455.m3u8 
+
 WILD TV,http://nocable.cc:8080/live/28148830/68208395/100456.m3u8
 Super Channel Heart & Home,http://nocable.cc:8080/live/28148830/68208395/100460.m3u8
-CBC Winnipeg,http://nocable.cc:8080/live/28148830/68208395/100628.m3u8
-Global News Winnipeg,http://nocable.cc:8080/live/28148830/68208395/100629.m3u8
-CTV WINNIPEG,http://nocable.cc:8080/live/28148830/68208395/100630.m3u8
-CITY TV WINNIPEG,http://nocable.cc:8080/live/28148830/68208395/100631.m3u8
+
 Silver Screen,http://nocable.cc:8080/live/28148830/68208395/107190.m3u8
 COOKING Channel,http://nocable.cc:8080/live/28148830/68208395/107960.m3u8
 Travel Escape,http://nocable.cc:8080/live/28148830/68208395/108136.m3u8
-Global News Calgary,http://nocable.cc:8080/live/28148830/68208395/111067.m3u8 
-Global Calgary,http://nocable.cc:8080/live/28148830/68208395/115349.m3u8
+
 CTV LIFE,http://nocable.cc:8080/live/28148830/68208395/116506.m3u8
 Dejaview,http://nocable.cc:8080/live/28148830/68208395/122001.m3u8
-Global Edmonton,http://nocable.cc:8080/live/28148830/68208395/132271.m3u8
-CTV2 VANCOUVER ISLAND,http://nocable.cc:8080/live/28148830/68208395/136612.m3u8
-Global Montreal,http://nocable.cc:8080/live/28148830/68208395/136640.m3u8
-Global Monterial News,http://nocable.cc:8080/live/28148830/68208395/136641.m3u8
-Global Peterborough News,http://nocable.cc:8080/live/28148830/68208395/137681.m3u8
+
 BBC World News,http://nocable.cc:8080/live/28148830/68208395/139752.m3u8
 documentary HD,http://nocable.cc:8080/live/28148830/68208395/148610.m3u8
-Global Maritimes HD,http://nocable.cc:8080/live/28148830/68208395/171954.m3u8
+
 HPItv East,http://nocable.cc:8080/live/28148830/68208395/173131.m3u8
-CTV Halifax Nova Scotia,http://nocable.cc:8080/live/28148830/68208395/188776.m3u8
-CTV HALIFAX,http://nocable.cc:8080/live/28148830/68208395/188777.m3u8
+
 H2,http://nocable.cc:8080/live/28148830/68208395/210450.m3u8
 MUCH MUSIC,http://nocable.cc:8080/live/28148830/68208395/215268.m3u8
 City News Toronto,http://nocable.cc:8080/live/28148830/68208395/216100.m3u8
+CBC TORONTO,http://nocable.cc:8080/live/28148830/68208395/57306.m3u8 
+
+CANADA CITY,#genre#
+CBC Calgary HD,http://nocable.cc:8080/live/28148830/68208395/57381.m3u8
+CBC Charlottetown HD,http://nocable.cc:8080/live/28148830/68208395/57382.m3u8
+CBC Edmonton,http://nocable.cc:8080/live/28148830/68208395/57384.m3u8
+CBC Halifax HD,http://nocable.cc:8080/live/28148830/68208395/57385.m3u8
+CBC Montreal HD,http://nocable.cc:8080/live/28148830/68208395/57387.m3u8
+CBC OTTAWA,http://nocable.cc:8080/live/28148830/68208395/57305.m3u8
+CBC Vancouver,http://nocable.cc:8080/live/28148830/68208395/57391.m3u8
+CBC Winnipeg,http://nocable.cc:8080/live/28148830/68208395/100628.m3u8
+CBC Windsor,http://nocable.cc:8080/live/28148830/68208395/86749.m3u8
+
+CITY TV WINNIPEG,http://nocable.cc:8080/live/28148830/68208395/100631.m3u8
+CITY TV CALGARY,http://nocable.cc:8080/live/28148830/68208395/75652.m3u8
+CITY TV VANCOUVER,http://nocable.cc:8080/live/28148830/68208395/57395.m3u8
+
+CTV WINNIPEG,http://nocable.cc:8080/live/28148830/68208395/100630.m3u8
+CTV Halifax Nova Scotia,http://nocable.cc:8080/live/28148830/68208395/188776.m3u8
+CTV HALIFAX,http://nocable.cc:8080/live/28148830/68208395/188777.m3u8
+CTV Sudbury Ontario,http://nocable.cc:8080/live/28148830/68208395/100454.m3u8
+CTV Timmins Ontario,http://nocable.cc:8080/live/28148830/68208395/100455.m3u8 
+
+CTV CALGARY,http://nocable.cc:8080/live/28148830/68208395/57964.m3u8
+CTV Comedy Channel,http://nocable.cc:8080/live/28148830/68208395/57408.m3u8
+CTV Drama Channel,http://nocable.cc:8080/live/28148830/68208395/57254.m3u8
+CTV Edmonton Alberta,http://nocable.cc:8080/live/28148830/68208395/58725.m3u8 
+CTV Halifax Nova Scotia,http://nocable.cc:8080/live/28148830/68208395/57410.m3u8
+CTV Kitchener,http://nocable.cc:8080/live/28148830/68208395/58557.m3u8
+
+CTV Montreal,http://nocable.cc:8080/live/28148830/68208395/47234.m3u8
+
+CTV OTTAWA,http://nocable.cc:8080/live/28148830/68208395/47237.m3u8
+CTV Regina Saskatchewan,http://nocable.cc:8080/live/28148830/68208395/66381.m3u8
+CTV Saskatoon Saskatchewan,http://nocable.cc:8080/live/28148830/68208395/66382.m3u8
+
+CTV Barrie Ontario,http://nocable.cc:8080/live/28148830/68208395/57373.m3u8
+
+CTV2 VANCOUVER ISLAND,http://nocable.cc:8080/live/28148830/68208395/136612.m3u8
+CTV 2 London,http://nocable.cc:8080/live/28148830/68208395/58546.m3u8
+CTV Two Atlantic,http://nocable.cc:8080/live/28148830/68208395/79547.m3u8
+CTV2 Vancouver,http://nocable.cc:8080/live/28148830/68208395/57316.m3u8
+CTV2 Windsor,http://nocable.cc:8080/live/28148830/68208395/77165.m3u8
+
+CTV NEWS CHANNEL,http://nocable.cc:8080/live/28148830/68208395/57350.m3u8
+
+Global Edmonton,http://nocable.cc:8080/live/28148830/68208395/132271.m3u8
+Global Montreal,http://nocable.cc:8080/live/28148830/68208395/136640.m3u8
+Global Monterial News,http://nocable.cc:8080/live/28148830/68208395/136641.m3u8
+Global Peterborough News,http://nocable.cc:8080/live/28148830/68208395/137681.m3u8
+Global Calgary,http://nocable.cc:8080/live/28148830/68208395/115349.m3u8
+Global Maritimes HD,http://nocable.cc:8080/live/28148830/68208395/171954.m3u8
+Global Durham,http://nocable.cc:8080/live/28148830/68208395/100453.m3u8
+Global Peterborough News,http://nocable.cc:8080/live/28148830/68208395/85269.m3u8
+Global News Kingston,http://nocable.cc:8080/live/28148830/68208395/57432.m3u8
+Global Edmonton News,http://nocable.cc:8080/live/28148830/68208395/58724.m3u8 
+Global Halifax News,http://nocable.cc:8080/live/28148830/68208395/57434.m3u8
+Global Saskatoon,http://nocable.cc:8080/live/28148830/68208395/66383.m3u8
+Global Vancouver,http://nocable.cc:8080/live/28148830/68208395/57436.m3u8 
+
+Global News Regina,http://nocable.cc:8080/live/28148830/68208395/66384.m3u8
+Global News Calgary,http://nocable.cc:8080/live/28148830/68208395/111067.m3u8 
+Global News Winnipeg,http://nocable.cc:8080/live/28148830/68208395/100629.m3u8
+
 
 港台 HONGKONG,#genre#
 
