@@ -578,7 +578,9 @@ H2,http://nocable.cc:8080/live/28148830/68208395/210450.m3u8
 MUCH MUSIC,http://nocable.cc:8080/live/28148830/68208395/215268.m3u8
 City News Toronto,http://nocable.cc:8080/live/28148830/68208395/216100.m3u8
 CBC TORONTO,http://nocable.cc:8080/live/28148830/68208395/57306.m3u8 
-
+CTV Comedy Channel,http://nocable.cc:8080/live/28148830/68208395/57408.m3u8
+CTV Drama Channel,http://nocable.cc:8080/live/28148830/68208395/57254.m3u8
+CTV NEWS CHANNEL,http://nocable.cc:8080/live/28148830/68208395/57350.m3u8
 
 CANADA CITIES,#genre#
 CBC Calgary HD,http://nocable.cc:8080/live/28148830/68208395/57381.m3u8
@@ -602,8 +604,7 @@ CTV Sudbury Ontario,http://nocable.cc:8080/live/28148830/68208395/100454.m3u8
 CTV Timmins Ontario,http://nocable.cc:8080/live/28148830/68208395/100455.m3u8 
 
 CTV CALGARY,http://nocable.cc:8080/live/28148830/68208395/57964.m3u8
-CTV Comedy Channel,http://nocable.cc:8080/live/28148830/68208395/57408.m3u8
-CTV Drama Channel,http://nocable.cc:8080/live/28148830/68208395/57254.m3u8
+
 CTV Edmonton Alberta,http://nocable.cc:8080/live/28148830/68208395/58725.m3u8 
 CTV Halifax Nova Scotia,http://nocable.cc:8080/live/28148830/68208395/57410.m3u8
 CTV Kitchener,http://nocable.cc:8080/live/28148830/68208395/58557.m3u8
@@ -622,7 +623,7 @@ CTV Two Atlantic,http://nocable.cc:8080/live/28148830/68208395/79547.m3u8
 CTV2 Vancouver,http://nocable.cc:8080/live/28148830/68208395/57316.m3u8
 CTV2 Windsor,http://nocable.cc:8080/live/28148830/68208395/77165.m3u8
 
-CTV NEWS CHANNEL,http://nocable.cc:8080/live/28148830/68208395/57350.m3u8
+
 
 Global Edmonton,http://nocable.cc:8080/live/28148830/68208395/132271.m3u8
 Global Montreal,http://nocable.cc:8080/live/28148830/68208395/136640.m3u8
