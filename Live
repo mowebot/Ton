@@ -193,12 +193,12 @@ THE SHOPPING CHANNEL,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@9
 THE SHOPPING CHANNEL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
 
 
-CTV 2,http://fortv.cc:8080/b6twFE/414151/57316
-CTV 2,http://nocable.cc:8080/5AGbfz/324331/57316
-CTV 2,http://stream.cammonitorplus.net/1731/index.m3u8
-CTV 2,http://stream.cammonitorplus.net/1736/index.m3u8
-CTV 2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1428.m3u8
-CTV 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93008.ts
+CTV 2 TORONTO,http://fortv.cc:8080/b6twFE/414151/57316
+CTV 2 TORONTO,http://nocable.cc:8080/5AGbfz/324331/57316
+CTV 2 TORONTO,http://stream.cammonitorplus.net/1731/index.m3u8
+CTV 2 TORONTO,http://stream.cammonitorplus.net/1736/index.m3u8
+CTV 2 TORONTO,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1428.m3u8
+CTV 2 TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93008.ts
 
 21 FOX, 
 
@@ -211,8 +211,8 @@ WEATHER NETWORK TORONTO,http://nocable.cc:8080/5AGbfz/324331/57470
 WEATHER NETWORK TORONTO,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
 WEATHER NETWORK TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
 
-CBC NEWS NETWORK,http://nocable.cc:8080/live/28148830/68208395/57304
-CBC NEWS NETWORK,http://nocable.cc:8080/b6twFE/414151/57304
+CBC NEWS TORONTO,http://nocable.cc:8080/live/28148830/68208395/57304
+CBC NEWS TORONTO,http://nocable.cc:8080/b6twFE/414151/57304
 
 CP24,http://xxip9.top:8080/live/b.ivey@bellaliant.net/EBKLbjN4wN/47218.m3u8
 CP24,http://xxip25.top:8080/live/1yNyea/123956/57345.m3u8
@@ -351,10 +351,10 @@ AMC,http://148.113.160.49:14209
 AMC,http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 AMC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3132.m3u8
 
-CTV Drama Channel,http://nocable.cc:8080/b6twFE/414151/57254
-CTV Drama Channel,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
-CTV Drama Channel,http://fortv.cc:8080/b6twFE/414151/57254
-CTV Drama Channel,http://fortv.cc:8080/Alan/Alan1234/57254
+CTV DRAMA CHANNEL,http://nocable.cc:8080/b6twFE/414151/57254
+CTV DRAMA CHANNEL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
+CTV DRAMA CHANNEL,http://fortv.cc:8080/b6twFE/414151/57254
+CTV DRAMA CHANNEL,http://fortv.cc:8080/Alan/Alan1234/57254
 
 HLN,http://nocable.cc:8080/b6twFE/414151/57441
 HLN,http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
@@ -601,7 +601,7 @@ CBC TORONTO,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/76137
 CBS EAST,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761375
 CHCH,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761376
 
-CITY TORONTO,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761379
+CITY TV TORONTO,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761379
 
 CMT,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761382
 CNBC,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761383
@@ -626,7 +626,7 @@ CTV NEWS CHANNEL,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/
 
 CTV TORONTO,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761417
 
-CTV2 TORONTO,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761422
+CTV 2 TORONTO,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761422
 
 DAYSTAR TV,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761424
 DEJAVIEW,http://hestiahestia.quicksytes.com:2096/Dalekillion/8295734160/761425
@@ -984,7 +984,7 @@ CMT,http://bgdc.live:25461/nmullen144/73970570/190845
 CNN,http://bgdc.live:25461/nmullen144/73970570/190846
 COOKING CHANNEL,http://bgdc.live:25461/nmullen144/73970570/190847
 COTTAGE LIFE,http://bgdc.live:25461/nmullen144/73970570/190848
-CP 24,http://bgdc.live:25461/nmullen144/73970570/190849
+CP24,http://bgdc.live:25461/nmullen144/73970570/190849
 CPAC,http://bgdc.live:25461/nmullen144/73970570/190850
 CRAVE 1,http://bgdc.live:25461/nmullen144/73970570/190851
 CRAVE 2,http://bgdc.live:25461/nmullen144/73970570/190852
